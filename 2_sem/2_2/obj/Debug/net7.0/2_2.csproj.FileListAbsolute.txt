@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\bin\Debug\net7.0\2_2.exe
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\bin\Debug\net7.0\2_2.deps.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\bin\Debug\net7.0\2_2.runtimeconfig.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\bin\Debug\net7.0\2_2.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\bin\Debug\net7.0\2_2.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.AssemblyInfo.cs
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\refint\2_2.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\2_2.genruntimeconfig.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\2_sem\2_2\obj\Debug\net7.0\ref\2_2.dll
