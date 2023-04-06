@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\bin\Debug\net7.0\4_0.exe
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\bin\Debug\net7.0\4_0.deps.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\bin\Debug\net7.0\4_0.runtimeconfig.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\bin\Debug\net7.0\4_0.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\bin\Debug\net7.0\4_0.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.AssemblyInfo.cs
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\refint\4_0.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\4_0.genruntimeconfig.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\4_sem\4_0\obj\Debug\net7.0\ref\4_0.dll
