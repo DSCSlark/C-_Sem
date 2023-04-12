@@ -1,0 +1,15 @@
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\bin\Debug\net7.0\5_1.exe
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\bin\Debug\net7.0\5_1.deps.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\bin\Debug\net7.0\5_1.runtimeconfig.json
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\bin\Debug\net7.0\5_1.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\bin\Debug\net7.0\5_1.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.AssemblyInfo.cs
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\refint\5_1.dll
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.pdb
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\5_1.genruntimeconfig.cache
+C:\Users\Макс\Desktop\УЧЕБА\C#_Sem\5_sem\5_1\obj\Debug\net7.0\ref\5_1.dll
